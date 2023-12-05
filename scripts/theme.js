@@ -15,7 +15,7 @@ function loadTheme() {
     		if (darkModeQuery.matches) {
 			link.href = 'themes/dark.css';
 		} else {
-			link.href = 'themes/light.css';
+			link.href = 'themes/dark.css';
 		}
 
 		head.appendChild(link);
