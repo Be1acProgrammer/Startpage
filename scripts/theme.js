@@ -13,9 +13,9 @@ function loadTheme() {
 		link.media = 'all';
 
     		if (darkModeQuery.matches) {
-			link.href = 'themes/dark.css';
+			link.href = 'themes/dark_Everforest.css';
 		} else {
-			link.href = 'themes/dark.css';
+			link.href = 'themes/dark_Everforest.css';
 		}
 
 		head.appendChild(link);
