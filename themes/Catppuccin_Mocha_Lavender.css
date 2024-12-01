@@ -5,7 +5,7 @@ body {
 
 .search_bar {
 	background-color: #bac2de;
-	color: #f5e0dc;
+	color: #bac2de;
 	border-bottom: 8px solid #b4befe;
 }
 
@@ -25,6 +25,6 @@ body {
 }
 
 p {
-	background-color: #11111b;
+	background-color: #bac2de;
 	border-bottom: 8px solid #b4befe;
 }
