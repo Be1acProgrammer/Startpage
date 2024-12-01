@@ -13,6 +13,9 @@
 # Getting Started!!!!!!
 * To get started, simply clone this repository to your local machine and open the index.html file in your web browser.
 
+# Contributing?
+* If you have any suggestions for new features or improvements, please open an issue or submit a pull request. (*Please note I am not a professional, so be easy on me when it comes to this stuff!*)
+
 # License
 * This project is licensed under the GNU General Public License version 3 (GPLv3) - see the ```LICENSE``` file for details.
 
