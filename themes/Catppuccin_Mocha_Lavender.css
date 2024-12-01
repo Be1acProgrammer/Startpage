@@ -4,13 +4,13 @@ body {
 }
 
 .search_bar {
-	background-color: #b4befe;
+	background-color: #11111b;
 	color: #b4befe;
-	border-bottom: 8px solid #b4befe;
+	border-bottom: 8px solid #11111b;
 }
 
 .search_bar::placeholder {
-	color: #b4befe;
+	color: #1e1e2e;
 }
 
 .search_button {
