@@ -1,0 +1,30 @@
+body {
+	background-color: #1e1e2e;
+	color: #f5e0dc;
+}
+
+.search_bar {
+	background-color: #11111b;
+	color: #f5e0dc;
+	border-bottom: 8px solid #b4befe;
+}
+
+.search_bar::placeholder {
+	color: #11111b;
+}
+
+.search_button {
+	background-color: #b4befe;
+	color: #45475a;
+	border-bottom: 8px solid #b4befe;
+}
+
+.search_button:hover {
+	background-color: #181825;
+	border-bottom: 8px solid #b4befe;
+}
+
+p {
+	background-color: #11111b;
+	border-bottom: 8px solid #b4befe;
+}
