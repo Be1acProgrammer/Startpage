@@ -1,6 +1,6 @@
-<h1 align="center"My Custom Startpage</h1>
+<h1 align="center">My Custom Startpage</h1>
 
-# This is my custom startpage, designed to provide quick and easy access to my most frequently used websites and tools.
+* This is my custom startpage, designed to provide quick and easy access to my most frequently searchs with fast load times!
 
 # Features
 * Customizable layout: Drag and drop the tiles to arrange them in any order you like.
