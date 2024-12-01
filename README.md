@@ -6,7 +6,10 @@
 * Customizable layout: Drag and drop the tiles to arrange them in any order you like.
 * Quick search: Search the web directly from the search bar, powered by DuckDuckGo for privacy.
 
-# Getting Started
+# Privacy!
+* This startpage is designed with privacy in mind. All searches are powered by Distroot Searxng, which does not track or profile its users. The Wikipedia & other provided by APIs that do not require any personal information.
+
+# Getting Started!!!!!!
 * To get started, simply clone this repository to your local machine and open the index.html file in your web browser.
 
 # License
