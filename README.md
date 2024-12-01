@@ -8,3 +8,6 @@
 
 # Getting Started
 * To get started, simply clone this repository to your local machine and open the index.html file in your web browser.
+
+# License
+* This project is licensed under the GNU General Public License version 3 (GPLv3) - see the ```LICENSE``` file for details.
