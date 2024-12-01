@@ -13,9 +13,9 @@ function loadTheme() {
 		link.media = 'all';
 
     		if (darkModeQuery.matches) {
-			link.href = 'themes/Catppuccin_Mocha.css';
+			link.href = 'themes/Catppuccin_Mocha_Lavender.css';
 		} else {
-			link.href = 'themes/Catppuccin_Mocha.css';
+			link.href = 'themes/Catppuccin_Mocha_Lavender.css';
 		}
 
 		head.appendChild(link);
