@@ -6,7 +6,7 @@
 * Quick search: Search the web directly from the search bar, powered by Disroot's Searxng for privacy.
 * Random Quotes: Some tech, helpful, and some very unique, I added the ogly boogly!
 * De-Googled: Get google results within Disroot's Searxng without you pinging google!
-* Fully Open Source: You the user weill never have you IP given to me or the search provider in which case is within Disroot's Searxng!
+* Fully Open Source: You the user will never have you IP given to me or the search provider in which case is within Disroot's Searxng!
 * Non-Profit: Donate if you want but I don't need money, I really only need your help, and mabye for ssd's for my photo, videos, and coding projects!
 
 # Privacy!
