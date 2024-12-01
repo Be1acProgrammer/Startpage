@@ -15,3 +15,6 @@
 
 # License
 * This project is licensed under the GNU General Public License version 3 (GPLv3) - see the ```LICENSE``` file for details.
+
+# Contact?
+* If you have any questions or comments, please contact me at ```githubhelp.hqu1p@simplelogin.com```
